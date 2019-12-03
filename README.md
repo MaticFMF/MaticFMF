@@ -1,5 +1,4 @@
 # MaticFMF
-Študent FMF-a
 
 Računalniška orodja v Matematiki
 
